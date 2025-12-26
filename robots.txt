@@ -1,5 +1,8 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://username.github.io/bisnis/sitemap.xml
-Sitemap: https://username.github.io/bisnis/sitemap-news.xml
+User-agent: Googlebot
+Allow: /
+Allow: /images/
+
+Sitemap: https://bisnisumkm.github.io/bisnis/sitemap_index.xml
